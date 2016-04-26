@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/x86isnice/NorDis/src/NorDis.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+sstream
+-
+
